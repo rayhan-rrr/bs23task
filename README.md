@@ -1,7 +1,7 @@
 # Technical Test for Senior PHP Developer - Done by Md. Rayhanur Rahaman Rubel
 
 ## Introduction
-This is a simple OOP project developed as a technical task for the position of Senior Software Developer at Brain Station 23 Ltd..
+This is a simple OOP project developed as a technical task for the position of Senior PHP Developer at Brain Station 23 Ltd..
 The project is completely done with RAW PHP without using any PHP framework.
 
 
